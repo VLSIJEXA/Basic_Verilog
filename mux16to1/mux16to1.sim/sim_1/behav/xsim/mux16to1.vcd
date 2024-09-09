@@ -1,0 +1,50 @@
+$date
+   Mon Sep  9 13:02:49 2024
+$end
+
+$version
+  2024.1
+  $dumpfile ("mux16to1.vcd") 
+$end
+
+$timescale
+  1ps
+$end
+
+$scope module mux16to1_tb $end
+$var reg 16 ! A [15:0] $end
+$var reg 4 " S [3:0] $end
+$var wire 1 # F $end
+$scope module DUT $end
+$var wire 16 $ in [15:0] $end
+$var wire 4 % sel [3:0] $end
+$var wire 1 # out $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+
+#0
+$dumpvars
+bx !
+bx "
+x#
+bx $
+bx %
+$end
+
+#5000
+b11111100001010 !
+b0 "
+0#
+b11111100001010 $
+b0 %
+
+#10000
+b1 "
+1#
+b1 %
+
+#15000
+b110 "
+0#
+b110 %
