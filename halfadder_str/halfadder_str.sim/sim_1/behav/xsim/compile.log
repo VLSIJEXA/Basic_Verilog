@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/NPTEL/verilog/code/halfadder_str/halfadder_str.srcs/sources_1/new/halfadder_str.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module halfadder_str
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/NPTEL/verilog/code/halfadder_str/halfadder_str.srcs/sources_1/new/halfadder_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module halfadder_tb

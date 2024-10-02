@@ -1,0 +1,7 @@
+Time resolution is 1 ps
+time=                   0 	 a =0	b=0,s=0,c=0
+time=                  10 	 a =1	b=0,s=1,c=0
+time=                  30 	 a =0	b=0,s=0,c=0
+time=                  40 	 a =0	b=1,s=1,c=0
+time=                  50 	 a =1	b=1,s=0,c=1
+$stop called at time : 70 ns : File "F:/NPTEL/verilog/code/halfadder_str/halfadder_str.srcs/sources_1/new/halfadder_tb.v" Line 38
