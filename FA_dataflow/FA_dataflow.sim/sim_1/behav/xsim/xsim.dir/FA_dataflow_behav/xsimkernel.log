@@ -1,0 +1,4 @@
+Running: xsim.dir/FA_dataflow_behav/xsimk.exe -simmode gui -wdb FA_dataflow_behav.wdb -simrunnum 0 -socket 55207
+Design successfully loaded
+Design Loading Memory Usage: 8308 KB (Peak: 8308 KB)
+Design Loading CPU Usage: 46 ms
