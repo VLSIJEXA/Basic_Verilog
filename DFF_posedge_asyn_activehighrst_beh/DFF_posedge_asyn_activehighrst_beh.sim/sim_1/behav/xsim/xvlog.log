@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/my@VLSI course/verilog/code/DFF_posedge_asyn_activehighrst_beh/DFF_posedge_asyn_activehighrst_beh.srcs/sources_1/new/DFF_posedge_asyn_activehighrst_beh.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DFF_posedge_asyn_activehighrst_beh
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/my@VLSI course/verilog/code/DFF_posedge_asyn_activehighrst_beh/DFF_posedge_asyn_activehighrst_beh.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

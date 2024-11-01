@@ -1,0 +1,7 @@
+Running: xsim.dir/DFF_posedge_asyn_activehighrst_beh_behav/xsimk.exe -simmode gui -wdb DFF_posedge_asyn_activehighrst_beh_behav.wdb -simrunnum 0 -socket 49835
+Design successfully loaded
+Design Loading Memory Usage: 8244 KB (Peak: 8244 KB)
+Design Loading CPU Usage: 46 ms
+Simulation completed
+Simulation Memory Usage: 8808 KB (Peak: 8808 KB)
+Simulation CPU Usage: 62 ms
