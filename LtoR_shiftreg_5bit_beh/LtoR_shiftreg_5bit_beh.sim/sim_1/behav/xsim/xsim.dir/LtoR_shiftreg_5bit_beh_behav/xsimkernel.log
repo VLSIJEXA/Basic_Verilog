@@ -1,0 +1,4 @@
+Running: xsim.dir/LtoR_shiftreg_5bit_beh_behav/xsimk.exe -simmode gui -wdb LtoR_shiftreg_5bit_beh_behav.wdb -simrunnum 0 -socket 58058
+Design successfully loaded
+Design Loading Memory Usage: 8308 KB (Peak: 8308 KB)
+Design Loading CPU Usage: 15 ms
