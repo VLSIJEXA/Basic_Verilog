@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/my@VLSI course/verilog/code/counter_beh/counter_beh.srcs/sources_1/new/counter_beh.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module counter_beh
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/my@VLSI course/verilog/code/counter_beh/counter_beh.srcs/sim_1/new/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench
