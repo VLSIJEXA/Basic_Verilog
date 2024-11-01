@@ -1,0 +1,4 @@
+Running: xsim.dir/DFF_posedge_asy_activelowrst_beh_behav/xsimk.exe -simmode gui -wdb DFF_posedge_asy_activelowrst_beh_behav.wdb -simrunnum 0 -socket 50044
+Design successfully loaded
+Design Loading Memory Usage: 8324 KB (Peak: 8324 KB)
+Design Loading CPU Usage: 15 ms
