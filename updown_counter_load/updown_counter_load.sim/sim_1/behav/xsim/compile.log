@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/my@VLSI course/verilog/code/updown_counter_load/updown_counter_load.srcs/sources_1/new/updown_counter_load.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module updown_counter_load
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/my@VLSI course/verilog/code/updown_counter_load/updown_counter_load.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
