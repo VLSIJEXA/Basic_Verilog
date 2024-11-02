@@ -1,0 +1,4 @@
+Running: xsim.dir/freq_divide_2_jatin_behav/xsimk.exe -simmode gui -wdb freq_divide_2_jatin_behav.wdb -simrunnum 0 -socket 50130
+Design successfully loaded
+Design Loading Memory Usage: 8348 KB (Peak: 8348 KB)
+Design Loading CPU Usage: 15 ms
