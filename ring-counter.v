@@ -6,7 +6,7 @@ begin
 if(int)
  count =8'b10000000;
 else begin
-   count <=count+1;
+   count <=count<<1;
    count<=count[7];
 end
     end
