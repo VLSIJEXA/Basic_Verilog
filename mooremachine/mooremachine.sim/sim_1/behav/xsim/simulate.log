@@ -1,0 +1,9 @@
+Time resolution is 1 ps
+                   0x
+                   50
+                  351
+                  450
+                  651
+                  750
+                  951
+$finish called at time : 102 ns : File "F:/my@VLSI course/verilog/code/practice/mooremachine/mooremachine.srcs/sim_1/new/testbench.v" Line 45
